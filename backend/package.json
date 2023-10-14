@@ -4,7 +4,7 @@
   "description": "Chat customizable IA - cohere",
   "main": "index.mjs",
   "scripts": {
-    "start": "index.mjs",
+    "start": "nodemon index.mjs",
     "test": "echo \"Error: capo, no especificaste ningun test\" && exit 1"
   },
   "keywords": [
